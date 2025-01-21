@@ -25,7 +25,7 @@ Business Impact: Using TPOT lets companies build and test models faster. They do
 The Mercedes-TPOT project followed these steps:
 
 Data Collection: Mercedes gave a data set with hidden details about how they make cars and what happens.
-Data Preprocessing: The team used methods to create new features, fill in missing data, and make the numbers work together.
+Data Preprocessing: The team used methods to create new features, fill in missing data, and make the numbers that work together.
 
 TPOT Pipeline: We used the TPOT library to create machine learning pipelines automatically. TPOT checked different models (Random Forests, Gradient Boosting) and picked the best pipeline based on how accurate it was.
 
